@@ -61,6 +61,7 @@ Tools FDEs reach for when building agentic systems in customer environments:
 - [CrewAI](https://www.crewai.com/) — Role-based multi-agent orchestration.
 - [Microsoft AutoGen](https://microsoft.github.io/autogen/) — Multi-agent conversation framework.
 - [DSPy](https://dspy.ai/) — Programming (not prompting) language models.
+- [fde-framework](https://github.com/atulkapoor/fde-framework) — Engagement framework built for the FDE workflow itself: a client brief becomes typed facts, seven gates refuse the build until data access is verified and a baseline exists, and the emitted project ships evals, runbooks and a risk doc the client can read.
 
 ## Evals & Observability
 
