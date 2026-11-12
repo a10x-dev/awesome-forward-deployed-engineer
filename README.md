@@ -27,6 +27,7 @@ The role pioneered by Palantir is now the fastest-growing job in AI. Forward Dep
 - [Why OpenAI and Anthropic are hiring FDE teams — The New Stack](https://thenewstack.io/forward-deployed-engineers-ai/) — How frontier labs adapted the Palantir model for AI deployment.
 - [Understanding Palantir: Forward-Deployed Engineers — Medium](https://medium.com/@balajibal/understanding-palantir-forward-deployed-engineers-and-the-making-of-an-unusual-platform-company-494dc7812f24) — The origin story and the "Delta" program that built Foundry.
 - [The Complete Guide to the FDE Role — Netguru](https://www.netguru.com/blog/forward-deployed-engineer-role-guide) — End-to-end overview of responsibilities and day-to-day.
+- [What is a forward deployed engineer (FDE)? — madsalt](https://madsalt.tech/blog/what-is-a-forward-deployed-engineer/) — What the role is and when a company needs one, with the 2025 growth in FDE job posts.
 
 ## Why It Matters
 
